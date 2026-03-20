@@ -2,7 +2,7 @@
   "name": "VOID PROTOCOL",
   "short_name": "VOID",
   "description": "Um jogo de memória e padrões no espaço.",
-  "start_url": "/",
+  "start_url": "https://benjamimschweitzer9-jpg.github.io/VOID-PROTOCOL/",
   "display": "standalone",
   "background_color": "#020510",
   "theme_color": "#00e5ff",
