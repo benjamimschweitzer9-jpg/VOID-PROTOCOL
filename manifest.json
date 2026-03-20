@@ -1,6 +1,7 @@
 {
   "name": "VOID PROTOCOL",
   "short_name": "VOID",
+  "description": "Um jogo de memória e padrões no espaço.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#020510",
